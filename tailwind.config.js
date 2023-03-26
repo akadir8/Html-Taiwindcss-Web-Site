@@ -13,6 +13,9 @@ module.exports = {
     },
     fontFamily:{
       nunito:['Poppins', 'sans-serif']
+    },
+    animation:{
+      bounce: "bounce 2s infinite"
     }
   },
   plugins: [],
